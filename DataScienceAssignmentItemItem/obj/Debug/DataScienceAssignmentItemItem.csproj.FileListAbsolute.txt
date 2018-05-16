@@ -1,0 +1,6 @@
+c:\users\oteken\documents\visual studio 2017\Projects\DataScienceAssignmentItemItem\DataScienceAssignmentItemItem\bin\Debug\DataScienceAssignmentItemItem.exe.config
+c:\users\oteken\documents\visual studio 2017\Projects\DataScienceAssignmentItemItem\DataScienceAssignmentItemItem\bin\Debug\DataScienceAssignmentItemItem.exe
+c:\users\oteken\documents\visual studio 2017\Projects\DataScienceAssignmentItemItem\DataScienceAssignmentItemItem\bin\Debug\DataScienceAssignmentItemItem.pdb
+c:\users\oteken\documents\visual studio 2017\Projects\DataScienceAssignmentItemItem\DataScienceAssignmentItemItem\obj\Debug\DataScienceAssignmentItemItem.csprojResolveAssemblyReference.cache
+c:\users\oteken\documents\visual studio 2017\Projects\DataScienceAssignmentItemItem\DataScienceAssignmentItemItem\obj\Debug\DataScienceAssignmentItemItem.exe
+c:\users\oteken\documents\visual studio 2017\Projects\DataScienceAssignmentItemItem\DataScienceAssignmentItemItem\obj\Debug\DataScienceAssignmentItemItem.pdb
